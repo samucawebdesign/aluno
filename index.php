@@ -1,6 +1,7 @@
 <?php 
 require_once('config.php');
 $bd = new Banco();
+
 ?>
 <!DOCTYPE html>
 <html>
