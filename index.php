@@ -9,7 +9,7 @@ $bd = new Banco();
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <title>Cadastro de aluno</title>
+    <title>Cadastro de aluno - Exemplo</title>
 </head>
 <body>
     <div class="container">
